@@ -1,15 +1,1 @@
-/**
- * Copyright (c) 2018-2020 aetheryx & Bowser65
- * All Rights Reserved. Licensed under the Porkord License
- * https://powercord.dev/porkord-license
- */
-
-module.exports = [
-  require('./no-track'),
-  require('./router'),
-  require('./dev-lands'),
-  require('./store'),
-  require('./badges'),
-  require('./utility-classes'),
-  require('./react-devtools')
-];
+Powercord is a lightweight client mod focused on simplicity and performance.

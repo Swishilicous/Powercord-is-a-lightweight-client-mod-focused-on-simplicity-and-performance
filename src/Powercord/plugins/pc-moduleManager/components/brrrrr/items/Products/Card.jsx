@@ -1,1 +1,1 @@
-// eyes
+Powercord is a lightweight client mod focused on simplicity and performance.

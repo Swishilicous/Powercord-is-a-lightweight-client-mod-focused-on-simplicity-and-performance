@@ -1,6 +1,1 @@
-module.exports = Object.freeze({
-  UPDATE_SETTINGS: 'POWERCORD_SETTINGS_UPDATE',
-  TOGGLE_SETTING: 'POWERCORD_SETTING_TOGGLE',
-  UPDATE_SETTING: 'POWERCORD_SETTING_UPDATE',
-  DELETE_SETTING: 'POWERCORD_SETTING_DELETE'
-});
+Powercord is a lightweight client mod focused on simplicity and performance.

@@ -1,7 +1,1 @@
-{
-  "name": "Module Manager",
-  "version": "0.1.1",
-  "description": "Powercord's module manager",
-  "author": "Powercord Team",
-  "license": "MIT"
-}
+Powercord is a lightweight client mod focused on simplicity and performance.

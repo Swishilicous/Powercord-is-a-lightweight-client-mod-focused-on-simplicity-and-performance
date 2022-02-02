@@ -1,7 +1,1 @@
-{
-  "name": "Connections",
-  "version": "1.0.0",
-  "description": "Powercord's connection renderer",
-  "author": "Powercord Team",
-  "license": "MIT"
-}
+Powercord is a lightweight client mod focused on simplicity and performance.

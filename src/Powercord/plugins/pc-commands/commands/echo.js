@@ -1,9 +1,1 @@
-module.exports = {
-  command: 'echo',
-  description: 'Returns the specified arguments.',
-  usage: '{c} [ ...arguments ]',
-  executor: (args) => ({
-    send: false,
-    result: args.join(' ')
-  })
-};
+Powercord is a lightweight client mod focused on simplicity and performance.

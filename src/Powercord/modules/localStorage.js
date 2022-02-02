@@ -1,7 +1,1 @@
-module.exports = () => {
-  const iframe = document.createElement('iframe');
-  window.localStorage = document.body
-    .appendChild(iframe)
-    .contentWindow
-    .localStorage;
-};
+Powercord is a lightweight client mod focused on simplicity and performance.

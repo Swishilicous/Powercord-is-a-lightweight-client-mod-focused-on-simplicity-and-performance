@@ -1,5 +1,1 @@
-language: node_js
-node_js:
-  - "12"
-cache: npm
-script: npm run lint
+Powercord is a lightweight client mod focused on simplicity and performance.

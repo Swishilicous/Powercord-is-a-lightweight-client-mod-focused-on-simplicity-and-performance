@@ -1,9 +1,1 @@
-{
-  "exclude": [ "node_modules" ],
-  "compilerOptions": {
-    "baseUrl": "./src/",
-    "paths": {
-      "powercord/*": [ "./fake_node_modules/powercord/*" ]
-    }
-  }
-}
+Powercord is a lightweight client mod focused on simplicity and performance.

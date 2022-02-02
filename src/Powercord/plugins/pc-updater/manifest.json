@@ -1,7 +1,1 @@
-{
-  "name": "Updater",
-  "version": "2.0.0",
-  "description": "Ensure Powercord, plugins and themes are always up to date",
-  "author": "Powercord Team",
-  "license": "MIT"
-}
+Powercord is a lightweight client mod focused on simplicity and performance.

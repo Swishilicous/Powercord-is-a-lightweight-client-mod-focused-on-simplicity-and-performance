@@ -1,10 +1,1 @@
-module.exports = {
-  command: 'say',
-  description: 'Sends the specified arguments.',
-  usage: '{c} [ ...arguments ]',
-  showTyping: true,
-  executor: (args) => ({
-    send: true,
-    result: args.join(' ')
-  })
-};
+Powercord is a lightweight client mod focused on simplicity and performance.

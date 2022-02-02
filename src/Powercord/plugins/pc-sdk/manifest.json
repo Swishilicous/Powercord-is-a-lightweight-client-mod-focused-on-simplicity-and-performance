@@ -1,7 +1,1 @@
-{
-  "name": "SDK",
-  "version": "0.0.1",
-  "description": "Sandbox Development Kit for plugin and themes developers",
-  "author": "Powercord Team",
-  "license": "MIT"
-}
+Powercord is a lightweight client mod focused on simplicity and performance.
